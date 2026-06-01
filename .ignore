@@ -1,0 +1,10 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.docx
+*.bin
+node_modules/
+build/
+dist/

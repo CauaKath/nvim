@@ -16,3 +16,6 @@ vim.keymap.set('n', '<leader>gb', function()
     vim.cmd('DiffviewOpen ' .. branch)
   end
 end, { desc = 'Git: diff against branch' })
+
+-- Markdown preview
+vim.keymap.set('n', '<leader>mp', ':Markview toggle<Enter>', { desc = 'Open explorer' })

@@ -17,7 +17,9 @@ return {
 	"vue",
 	"html",
 	"css",
-	"scss"
+	"scss",
+	"markdown",
+	"markdown_inline"
     },
     auto_install = true,
   },
